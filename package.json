@@ -21,7 +21,7 @@
   "devDependencies": {
     "@types/pluralize": "0.0.29",
     "chai": "^4.2.0",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "typescript": "^3.6.2"
   },
   "dependencies": {
